@@ -1,4 +1,4 @@
-# Qt PDF Reader (轻量级 PDF 阅读器)
+<img width="2560" height="1368" alt="屏幕截图 2026-02-27 182423" src="https://github.com/user-attachments/assets/d21d8967-34ff-40e0-8ff8-46119c3d3810" /># Qt PDF Reader (轻量级 PDF 阅读器)
 
 这是一个基于 Qt 框架开发的轻量级 PDF 阅读器。它支持基本的阅读功能，并具备多文档阅读历史记忆功能。
 
@@ -17,5 +17,5 @@
 * **数据库**: SQLite 3
 * **编译器**: MSVC 2019/2022 或 GCC
 
-![Uploading 屏幕截图 2026-02-27 182423.png…]()
+
 
