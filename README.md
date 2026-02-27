@@ -16,6 +16,6 @@
 * **模块**: `pdf`, `pdfwidgets`, `sql`
 * **数据库**: SQLite 3
 * **编译器**: MSVC 2019/2022 或 GCC
-<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/6fb27598-6a07-455c-9a3b-417549afb590" />
 
+![Uploading 屏幕截图 2026-02-27 182423.png…]()
 
